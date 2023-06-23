@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Ronak Desai
+name: Jack Felice
 
 # Short bio or description (displayed in the header)
-description: Physics PhD Student at OSU
+description: Physics Undergraduate Student at OSU
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/ronak-n-desai.png
+avatar: https://github.com/Felice27.png
 
 #
 # Flags below are optional
@@ -18,19 +18,19 @@ avatar: https://github.com/ronak-n-desai.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: desai.458@osu.edu
+  email: felice.27@osu.edu
   facebook:
   flickr:
-  github: ronak-n-desai
-  instagram: ron.n.des
-  linkedin: ronak-n-desai
+  github: Felice27
+  instagram: 
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: #
-  stackoverflow: users/21561014/naks97 # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  scholar: yYItsGIAAAAJ
+  scholar:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -42,13 +42,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://ronak-n-desai.github.io
+url: https://Felice27.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/osunotebook"
+baseurl:
 
 #
 # !! You don't need to change any of the configuration flags below !!
