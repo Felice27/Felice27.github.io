@@ -16,8 +16,9 @@ Trivially.  Now assume that a time $t$ has passed since the target was hit by a 
 
 (image of new distribution)
 
-Thus, the density distribution function is as follows:t
+Thus, the density distribution function is as follows:
 \begin{equation}
+\displaystyle
   n(x) \equiv 
   \begin{cases}
   n_{max} &\mbox{ if }  0 \leq \lvert x \rvert < d/2 \\
