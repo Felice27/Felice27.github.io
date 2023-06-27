@@ -17,6 +17,7 @@ Trivially.  Now assume that a time $t$ has passed since the target was hit by a 
 (image of new distribution)
 
 Thus, the density distribution function is as follows:
+$$
 \begin{equation}
 \displaystyle
   n(x) \equiv 
@@ -26,6 +27,7 @@ Thus, the density distribution function is as follows:
   0 &\mbox{ otherwise} 
   \end{cases}
 \end{equation}
+$$
 
 Where $c_s$ refers to the speed of sound in the medium.  Hence, to find the new density of the main target profile $n_{max}$, we can integrate the new density function over all space and set it equal to $N$, the total amount of material in the inital target.  That is:
 
