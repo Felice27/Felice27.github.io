@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deriving Effective Thickness from Prepulse Effects
+title: Updated Effective Thickness Derivation
 use_math: true
 category: physics
 ---
@@ -86,5 +86,3 @@ Finally, using $d_{eff} = 2x_0$:
 \begin{equation}
 d_{eff} = 2 C_h t \left( \ln{n_0 d} -  \ln{2C_ht} - \ln{n_{crit}} \right)
 \end{equation}
-
-\end{document}
